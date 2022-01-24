@@ -30,6 +30,10 @@
 	</dependencies>
 
 	<build>
+ 		<finalName>java-jenkins-docker</finalName>
+ 	</build>
+	
+	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
